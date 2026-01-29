@@ -4,20 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3ea01772909b46",
+        "id": "8f9b2e927037c5a8",
         "type": "tabs",
         "children": [
           {
-            "id": "dad989caf0c832eb",
+            "id": "961b171a26857a80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "编译程序设计艺术：理论与实践.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 726,
+                "zoom": 1.0663872549770208
+              },
+              "icon": "lucide-file-text",
+              "title": "编译程序设计艺术：理论与实践"
+            }
+          },
+          {
+            "id": "5480f92f935f73aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-29 20.05.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-29 20.05.30.excalidraw"
+            }
+          },
+          {
+            "id": "e99bd43d114a01f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-29 20.26.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-29 20.26.06.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,9 +163,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "acf7233cb1cb62f3",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,9 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dad989caf0c832eb",
+  "active": "e99bd43d114a01f8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-29 19.44.48.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2026-01-29 20.05.30.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-29 20.26.06.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-29 20.12.57.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-29 20.15.02.excalidraw.md",
+    "Programming Language/Foundation/值和引用.md",
+    "编译程序设计艺术：理论与实践.pdf",
+    "Excalidraw/Drawing 2026-01-29 20.00.04.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-29 20.04.45.excalidraw.md",
+    "未命名.base",
+    "Excalidraw",
+    "未命名.md",
+    "未命名",
+    "Excalidraw/Drawing 2026-01-29 19.44.48.excalidraw.md"
   ]
 }
